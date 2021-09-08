@@ -1,5 +1,4 @@
 
 application/* linguist-documentation=false
 application/* linguist-vendored
-db/* linguist-documentation=false
-db/* linguist-vendored
+
