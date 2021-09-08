@@ -1,4 +1,5 @@
 * linguist-vendored
-
-*.sql linguist-detectable=true
+*.php linguist-vendored=false
+*.sql linguist-vendored=false
+*.html linguist-vendored=false
 
